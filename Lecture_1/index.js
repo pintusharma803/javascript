@@ -21,7 +21,7 @@
 // }
 const pi = 3.28675;
 let radius ;
-radius = window.prompt('enter the radius');
+radius = window.prompt('Enter Radius');
 radius = Number(radius);
 console.log(typeof radius);
 circum = 2*pi*radius;

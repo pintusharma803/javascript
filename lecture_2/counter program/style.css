@@ -1,0 +1,23 @@
+#mycounter{
+    font-size: 10em;
+    font-style: Helvetica;
+    text-align: center;
+    display: block;
+
+
+}
+#btncontainer{
+    text-align: center;
+}
+.buttons{
+    padding: 10px 20px;
+    color: white;
+    background-color: rgb(119, 119, 201);
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color .25s;
+
+}
+.buttons:hover{
+    background-color: rgb(18, 141, 70);
+}
